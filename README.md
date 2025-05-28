@@ -8,8 +8,6 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
 	- [Hardware & installation (easiest method)](https://github.com/SHUR1K-N/wifi-shadowapple-resources#hardware--installation-easiest-method)
 	- [Upgrades, configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-shadowapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
 - [Parts](https://github.com/SHUR1K-N/wifi-shadowapple-resources#parts)
-	- [Base Wi-Fi Mangoapple](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#basic-wi-fi-mangoapple)
- 	- [Upgraded Wi-Fi Mangoapple](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#upgraded-wi-fi-mangoapple)
 - [Chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#chipsets)
   - [Notes](https://github.com/SHUR1K-N/wifi-shadowapple-resources#notes)
   - [2.4GHz / dual-band adapter decision](https://github.com/SHUR1K-N/wifi-shadowapple-resources#how-do-i-know-whether-i-should-get-a-24ghz-or-dual-band-adapter)
