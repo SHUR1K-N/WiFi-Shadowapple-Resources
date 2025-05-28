@@ -42,7 +42,6 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
 ---
 # Chipsets
 ## Notes
-* The Wi-Fi adapter discussed in my videos (RT5370 chipset) does _only_ 2.4GHz
 * The Wi-Fi Shadowapple is capable of 5GHz sniffs & attacks as well if a 5GHz adapter with a _supported_ chipset is used
 
 ## How do I know whether I should get a 2.4GHz, or dual-band adapter?
