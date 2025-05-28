@@ -6,7 +6,7 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
 ## Table of Contents
 - [Guide Videos](https://github.com/SHUR1K-N/wifi-shadowapple-resources#guide-videos)
 	- [Hardware & installation (easiest method)](https://github.com/SHUR1K-N/wifi-shadowapple-resources#hardware--installation-easiest-method)
-	- [Upgrades, configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-shadowapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
+	- [Configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-shadowapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
 - [Parts](https://github.com/SHUR1K-N/wifi-shadowapple-resources#parts)
 - [Chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#chipsets)
   - [Notes](https://github.com/SHUR1K-N/wifi-shadowapple-resources#notes)
@@ -19,13 +19,13 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
   - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-shadowapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-shadowapple-resources#cant-connect-to-open-ap)
   - [Can't format USB flash drive / USB flash drive unrecognized](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#cant-format-usb-flash-drive-or-usb-flash-drive-not-recognized)
-  - [Going back to stock firmware](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#going-back-to-the-mangos-stock-firmware)
+  - [Going back to stock firmware](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#going-back-to-the-shadows-stock-firmware)
 
 ## Guide Videos
 ### Hardware & installation — easiest method
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udnxagkSzoA/maxresdefault.jpg)](https://youtu.be/udnxagkSzoA)
 
-### Upgrade + configuration, tips, chipsets, troubleshooting, and more
+### Configuration, tips, chipsets, troubleshooting, and more
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pHtpso21P0o/maxresdefault.jpg)](https://youtu.be/pHtpso21P0o)
 
 ---
@@ -74,7 +74,7 @@ As per documentation, some research, and comments on my videos:
 * RT3072
 * RT3370
 * RTL8187L/B
-* RT5370 ― _personally confirmed + used in my apple & Shadowapple videos_
+* RT5370 ― _personally confirmed + used in my Shadowapple & Mangoapple videos_
 
 ## Supported 2.4GHz + 5GHz (dual-band) chipsets
 As per documentation, some research, and comments on my videos:
@@ -84,7 +84,7 @@ As per documentation, some research, and comments on my videos:
 * MT7610U
 * MT7662U/E
 * MT7915
-* RT3572 ― _confirmed by someone in this repo's Issues_
+* RT3572 ― _confirmed by someone in my Mangoapple repo's Issues_
 * RT5572 ― _personally confirmed + confirmed by someone in the video comments, Instagram, and Reddit_
 * MT7612U ― _most problematic chipset. Try to stay away from it. In several adapters with this chipset, the adapter's **internal emulated storage** is recognized instead of the **Wi-Fi adapter** itself. If running "lsusb" shows the device ID as "0e8d:2870", then you're in that same boat (the "toast" boat). You should either look into another chipset, or get another adapter with the same chipset and try again, or there are multiple commands & configurations you could try to ″switch″ the adapter's mode from storage to Wi-Fi (but it may get tricky and is not worth it)_
 
