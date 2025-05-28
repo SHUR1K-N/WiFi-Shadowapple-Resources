@@ -9,7 +9,6 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
 	- [Configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-shadowapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
 - [Parts](https://github.com/SHUR1K-N/wifi-shadowapple-resources#parts)
 - [Chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#chipsets)
-  - [Notes](https://github.com/SHUR1K-N/wifi-shadowapple-resources#notes)
   - [2.4GHz / dual-band adapter decision](https://github.com/SHUR1K-N/wifi-shadowapple-resources#how-do-i-know-whether-i-should-get-a-24ghz-or-dual-band-adapter)
   - [Supported 2.4GHz chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#supported-24ghz-chipsets)
   - [Supported 2.4GHz + 5GHz (dual-band) chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#supported-24ghz--5ghz-dual-band-chipsets)
@@ -39,7 +38,7 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
 ---
 ---
 # Chipsets
-The Wi-Fi Shadowapple is capable of 5GHz sniffs & attacks as well if a 5GHz adapter with a _supported_ chipset is used
+The Wi-Fi Shadowapple is capable of 5GHz sniffs & attacks as well if a 5GHz adapter with a _supported_ chipset is used.
 
 ## How do I know whether I should get a 2.4GHz, or dual-band adapter?
 
