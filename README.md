@@ -30,7 +30,7 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
 ---
 ---
 # Parts
-* GL.iNet Shadow (AR300M16-Ext) router ([Official](https://store.gl-inet.com/products/gl-mt300n-v2-mini-smart-router) / [Amazon](https://www.amazon.com/dp/B073TSK26W))
+* GL.iNet Shadow (AR300M16-Ext) router ([Amazon](https://www.amazon.com/dp/B07794JRC5))
 * 2× Wi-Fi adapters with [supported chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#chipsets)
 * USB flash drive
 * USB hub with a minimum of 3 ports
