@@ -22,10 +22,10 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
 
 ## Guide Videos
 ### Hardware & installation — easiest method
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udnxagkSzoA/maxresdefault.jpg)](https://youtu.be/udnxagkSzoA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/T-XcFUYe5Fg/maxresdefault.jpg)](https://youtu.be/T-XcFUYe5Fg)
 
-### Configuration, tips, chipsets, troubleshooting, and more
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pHtpso21P0o/maxresdefault.jpg)](https://youtu.be/pHtpso21P0o)
+### Upgrading the Shadowapple for MAX hackability
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pHtpso21P0o/maxresdefault.jpg)](https://www.youtube.com/watch?v=pHtpso21P0o&t=307s)
 
 ---
 ---
