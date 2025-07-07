@@ -13,12 +13,12 @@ Created this info-dump repo as an extension to my YouTube video about the **Wi-F
   - [Supported 2.4GHz chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#supported-24ghz-chipsets)
   - [Supported 2.4GHz + 5GHz (dual-band) chipsets](https://github.com/SHUR1K-N/wifi-shadowapple-resources#supported-24ghz--5ghz-dual-band-chipsets)
   - [Tested & confirmed as NOT supported](https://github.com/SHUR1K-N/wifi-shadowapple-resources#tested--confirmed-as-not-supported)
-  - [Personally confirmed & cheapest adapter links](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#personally-ordered--verified-adapter-links-non-affiliate)
+  - [Personally confirmed & cheapest adapter links](https://github.com/SHUR1K-N/wifi-shadowapple-Resources#personally-ordered--verified-adapter-links-non-affiliate)
 - [Troubleshooting](https://github.com/SHUR1K-N/wifi-shadowapple-resources#troubleshooting)
   - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-shadowapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-shadowapple-resources#cant-connect-to-open-ap)
-  - [Can't format USB flash drive / USB flash drive unrecognized](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#cant-format-usb-flash-drive-or-usb-flash-drive-not-recognized)
-  - [Going back to stock firmware](https://github.com/SHUR1K-N/WiFi-shadowapple-Resources#going-back-to-the-shadows-stock-firmware)
+  - [Can't format USB flash drive / USB flash drive unrecognized](https://github.com/SHUR1K-N/wifi-shadowapple-Resources#cant-format-usb-flash-drive-or-usb-flash-drive-not-recognized)
+  - [Going back to stock firmware](https://github.com/SHUR1K-N/wifi-shadowapple-Resources#going-back-to-the-shadows-stock-firmware)
 
 ## Guide Videos
 ### Hardware & installation — easiest method
